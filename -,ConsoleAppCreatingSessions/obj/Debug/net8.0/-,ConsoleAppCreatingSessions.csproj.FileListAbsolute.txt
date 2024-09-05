@@ -1,0 +1,14 @@
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\-,ConsoleAppCreatingSessions\-,ConsoleAppCreatingSessions\bin\Debug\net8.0\-,ConsoleAppCreatingSessions.exe
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\-,ConsoleAppCreatingSessions\-,ConsoleAppCreatingSessions\bin\Debug\net8.0\-,ConsoleAppCreatingSessions.deps.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\-,ConsoleAppCreatingSessions\-,ConsoleAppCreatingSessions\bin\Debug\net8.0\-,ConsoleAppCreatingSessions.runtimeconfig.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\-,ConsoleAppCreatingSessions\-,ConsoleAppCreatingSessions\bin\Debug\net8.0\-,ConsoleAppCreatingSessions.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\-,ConsoleAppCreatingSessions\-,ConsoleAppCreatingSessions\bin\Debug\net8.0\-,ConsoleAppCreatingSessions.pdb
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\-,ConsoleAppCreatingSessions\-,ConsoleAppCreatingSessions\obj\Debug\net8.0\-,ConsoleAppCreatingSessions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\-,ConsoleAppCreatingSessions\-,ConsoleAppCreatingSessions\obj\Debug\net8.0\-,ConsoleAppCreatingSessions.AssemblyInfoInputs.cache
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\-,ConsoleAppCreatingSessions\-,ConsoleAppCreatingSessions\obj\Debug\net8.0\-,ConsoleAppCreatingSessions.AssemblyInfo.cs
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\-,ConsoleAppCreatingSessions\-,ConsoleAppCreatingSessions\obj\Debug\net8.0\-,ConsoleAppCreatingSessions.csproj.CoreCompileInputs.cache
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\-,ConsoleAppCreatingSessions\-,ConsoleAppCreatingSessions\obj\Debug\net8.0\-,ConsoleAppCreatingSessions.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\-,ConsoleAppCreatingSessions\-,ConsoleAppCreatingSessions\obj\Debug\net8.0\refint\-,ConsoleAppCreatingSessions.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\-,ConsoleAppCreatingSessions\-,ConsoleAppCreatingSessions\obj\Debug\net8.0\-,ConsoleAppCreatingSessions.pdb
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\-,ConsoleAppCreatingSessions\-,ConsoleAppCreatingSessions\obj\Debug\net8.0\-,ConsoleAppCreatingSessions.genruntimeconfig.cache
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\-,ConsoleAppCreatingSessions\-,ConsoleAppCreatingSessions\obj\Debug\net8.0\ref\-,ConsoleAppCreatingSessions.dll
